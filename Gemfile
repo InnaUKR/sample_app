@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
 gem 'capybara','2.2.0'
-
+gem 'bootstrap-sass'
   gem 'sqlite3'
   
 group :development, :test do
